@@ -1,2 +1,2 @@
 # littlelemon
-Back-End Developer Capston Project
+Back-End Developer Capstone Project
