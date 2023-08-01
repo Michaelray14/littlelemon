@@ -7,7 +7,7 @@ In this Project we:
 
 - We set up a MySQL database and users. 
 
-- We also implemeneted the Django REST Framework(DRF).
+- We also implemented the Django REST Framework(DRF).
 
 - We installed Djoser and tested with insomnia to check for any bugs or errors with the application.
 
